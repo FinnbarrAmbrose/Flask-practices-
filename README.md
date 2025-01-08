@@ -1,19 +1,14 @@
-# Project Title
+# Flask practise
+
 
 ## Description
-Brief description of what the project does and its purpose.
-
+This site was my first introduction to flask I followed the code institute follow long videos when making the Oakenshield and company website Which will allow people to contact the company and a page labelled about which gives information on each party member about
 ## Installation
 Instructions on how to install and get the project running:
 
 ## Contributing
 Guidelines for how to contribute:
-1. Fork the repo
-2. Clone your fork
-3. Create a branch
-4. Make your changes
-5. Push to your fork
-6. Submit a pull request
+1.
 
 ## License
 This project is licensed under the [LICENSE NAME] License - see the LICENSE file for details.
